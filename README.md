@@ -40,7 +40,7 @@ ___
 
 
 ## 🖥️ Demo & Showcase
-[![Demo Video](assets/demo-thumb.png)](https://vimeo.com/YOUR_VIDEO_ID)
+[![Demo Video](assets/demo-thumb.PNG)](https://vimeo.com/1079714296/44bec65810?ts=0&share=copy)
 
 ---
 
